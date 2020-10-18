@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Machine_learning/.idea/Machine_learning.iml" filepath="$USER_HOME$/PycharmProjects/Machine_learning/.idea/Machine_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python Projects.iml" filepath="$PROJECT_DIR$/.idea/Python Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Working With Images/.idea/Python-Working With Images.iml" filepath="$PROJECT_DIR$/../Python-Working With Images/.idea/Python-Working With Images.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Test Files Directory/.idea/Test Files Directory.iml" filepath="$USER_HOME$/PycharmProjects/Test Files Directory/.idea/Test Files Directory.iml" />
+    </modules>
+  </component>
+</project>
